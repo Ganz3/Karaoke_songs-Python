@@ -21,8 +21,10 @@ lirik = [
     "satu yang kumau",
     "cuma harus kamu",
 ]
+
 # warna teks
 warna_teks = [Fore.BLUE, Fore.LIGHTGREEN_EX, Fore.CYAN, Fore.MAGENTA]
+
 # DELAY antara baris
 delay_baris = [1, 1, 1, 0.1, 1, 1.1, 1.2, 1.2, 0.28, 1, 1.1, 1, 1.2]
 
